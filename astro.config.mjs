@@ -10,6 +10,6 @@ import react from '@astrojs/react';
 
 // https://astro.build/config
 export default defineConfig({
-    site: 'https://example.com',
+    site: 'https://ToBee17.github.io',
     integrations: [mdx(), sitemap(), tailwind(), react()],
 });

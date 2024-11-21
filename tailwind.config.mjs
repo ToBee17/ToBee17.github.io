@@ -6,6 +6,13 @@ export default {
 			fontFamily:
 			 {Epilogue: ['Epilogue', 'sans-serif'],}
 		},
+
+		colors: {
+			'primary': '#FFD700',
+			'secondary': '#FFA500',
+			'black': '#2D2D2D',
+			'white': '#FFFFFF',
+		}
 	},
 	plugins: [],
 }

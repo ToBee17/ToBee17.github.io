@@ -8,26 +8,10 @@
 		
 		  
 		<div class="relative mt-4">
-			<p id="email" class="cursor-pointer">mechainadam@gmail.com</p>
+			<a href="mailto:mechainadam@gmail.com" class="cursor-pointer text-black ">mechainadam@gmail.com</a>
 			<img class="absolute top-[-7px] left-[-30px]" src="/style.png" alt="">
 			<img class="absolute bottom-[-8px] right-[-30px]" src="/style_2.png" alt="">
 		</div>
 	
   </div>
 </footer>
-
-<script>
-  document.addEventListener("DOMContentLoaded", () => {
-    const emailElement = document.getElementById("email");
-    if (emailElement) {
-      emailElement.addEventListener("click", () => {
-        const emailText = emailElement.textContent;
-        if (emailText) {
-          navigator.clipboard.writeText(emailText).then(() => {
-            alert("Adresse e-mail copiée");
-          });
-        }
-      });
-    }
-  });
-</script>

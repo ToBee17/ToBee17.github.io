@@ -3,7 +3,7 @@ import HeaderLink from "./HeaderLink.astro";
 import { SITE_TITLE } from "../consts";
 ---
 
-<header class="m-0 p-4 bg-white shadow-md ">
+<header class="m-0 p-4 bg-white shadow-md">
   <nav class="flex items-center justify-around">
     <h2 class="m-0 text-lg">
       <a href="/" class="">
@@ -11,24 +11,15 @@ import { SITE_TITLE } from "../consts";
       </a>
     </h2>
     <div class="flex">
-      <HeaderLink
-        href="/"
-        class="p-4 no-underline"
-        >Accueil</HeaderLink
-      >
-      <HeaderLink
-        href="/blog"
-        class="p-4 no-underline"
-        >Projet</HeaderLink
-      >
-      <HeaderLink
-        href="/about"
-        class="p-4  no-underline"
-        >Contact</HeaderLink
-      >
+      <HeaderLink href="/" class="p-4 no-underline">Accueil</HeaderLink>
+      <HeaderLink href="/blog" class="p-4 no-underline">Projet</HeaderLink>
+      <HeaderLink href="/about" class="p-4 no-underline">Contact</HeaderLink>
     </div>
-	<a href="/ADAM_MÉCHAIN_CV.pdf" target="_blank" class="flex">
-	  <button class="px-6 py-4 bg-primary text-black rounded-xl text-base font-semibold">Mon CV</button>
-	</a>
+    <a href="/ADAM_MÉCHAIN_CV.pdf" target="_blank" class="flex">
+      <button
+        class="px-6 py-4 bg-primary text-black rounded-xl text-base font-semibold"
+        >Mon CV</button
+      >
+    </a>
   </nav>
 </header>

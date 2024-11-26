@@ -12,6 +12,7 @@ export default {
 			'secondary': '#FFA500',
 			'black': '#2D2D2D',
 			'white': '#FFFFFF',
+			'grey': '#F5F7F9',
 		}
 	},
 	plugins: [],

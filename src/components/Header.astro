@@ -9,16 +9,19 @@ import HeaderLink from "./HeaderLink.astro";
         <img src="/logo.png" alt="Logo" class="h-14 w-auto transition-transform duration-300 hover:rotate-180" />
       </a>
     </h2>
-    <div class="flex">
-      <HeaderLink href="/" class="p-4 no-underline">Accueil</HeaderLink>
-      <HeaderLink href="/blog" class="p-4 no-underline">Projet</HeaderLink>
-      <HeaderLink href="/about" class="p-4 no-underline">Contact</HeaderLink>
+    <div class="flex text-base md:text-lg gap-4 md:gap-8 px-4 ">
+      <HeaderLink href="/" class="no-underline hidden md:block">Accueil</HeaderLink>
+      <HeaderLink href="/blog" class="no-underline">Projet</HeaderLink>
+      <HeaderLink href="/about" class="no-underline">Contact</HeaderLink>
     </div>
     <a href="/ADAM_MÉCHAIN_CV.pdf" target="_blank" class="flex">
       <button
-        class="px-6 py-4 bg-primary text-black rounded-xl text-base font-semibold"
-        >Mon CV</button
+        class="px-6 py-4 bg-primary text-black rounded-xl text-sm md:text-base font-semibold"
       >
+        <span class="block md:hidden">CV</span>
+        <span class="hidden md:block">Mon CV</span>
+      </button>
+      
     </a>
   </nav>
 </header>

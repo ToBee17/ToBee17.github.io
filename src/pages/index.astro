@@ -14,10 +14,10 @@ import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
     <Header />
     <main class="">
       <section class="flex gap-12 w-full justify-center items-centerd">
-        <div class="flex flex-col w-[60%]">
-          <h2 class="font-semibold text-lg">Graphisme | Communication</h2>
-          <h1 class="font-semibold text-6xl mb-6">Web Designer</h1>
-          <p class="text-base mb-6">
+        <div class="flex flex-col md:w-[60%]">
+          <h2 class="font-semibold text-base md:text-lg">Graphisme | Communication</h2>
+          <h1 class="font-semibold text-4xl md:text-6xl mb-6">Web Designer</h1>
+          <p class="text-sm md:text-base mb-6">
             Je suis en 3ème année du BUT MMI à Limoges, passionné par l'art, le
             dessin, la découverte et la photographie. Ma curiosité me pousse à
             expérimenter de nouveaux horizons, tout en développant mes
@@ -27,12 +27,12 @@ import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
           </p>
           <a href="/blog" class="flex"
             ><button
-              class="w-fit px-6 py-4 text-base font-semibold bg-black rounded-xl text-white hover:bg-primary hover:text-black transform hover:-translate-y-1 active:scale-105 transition duration-300"
+              class="w-fit px-6 py-4 text-sm md:text-base font-semibold bg-black rounded-xl text-white hover:bg-primary hover:text-black transform hover:-translate-y-1 active:scale-105 transition duration-300"
               >Voir mes projets</button
             ></a
           >
         </div>
-        <div>
+        <div class="hidden md:block">
           <img src="./mascotte.png" alt="mascotte" class="w-64"/>
         </div>
       </section>

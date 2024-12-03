@@ -13,17 +13,26 @@ import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
   <body class="text-black h-screen">
     <Header />
     <main class="w-full">
-      <section class="flex flex-col md:flex-row gap-12 w-full justify-center items-centerd max-w-[1000px]">
-        <div class="flex flex-col md:w-[60%]">
-          <h2 class="font-semibold text-base md:text-lg">Graphisme | Communication</h2>
+      <section
+        class="flex flex-col md:flex-row gap-12 w-full justify-center items-centerd max-w-[1000px]" 
+      >
+        <div class="flex flex-col md:w-[60%] bg-cover bg-center">
+          <h2 class="font-semibold text-base md:text-lg">
+            Graphisme | Communication
+          </h2>
           <h1 class="font-semibold text-4xl md:text-6xl mb-6">Web Designer</h1>
+          <p class="text-sm md:text-base mb-3">
+            Ça, c'est moi ! Et je suis en 3ᵉ année du BUT MMI à Limoges. Je suis
+            un passionné d’art, de dessin et de photographie. Ces disciplines
+            nourrissent ma créativité et ma curiosité. Le graphisme et la
+            communication sont mes disciplines phares, et je suis en constante
+            recherche de nouvelles découvertes.
             <p class="text-sm md:text-base mb-6">
-            Je suis en 3ème année du BUT MMI à Limoges, passionné par l'art, le
-            dessin, la découverte et la photographie. Ma curiosité me pousse à
-            expérimenter de nouveaux horizons, tout en développant mes
-            compétences dans le graphisme, la communication et le développement
-            web. Actuellement à la recherche d’un stage de 12 à 14 semaines dans
-            le domaines de la création numérique.
+              Adepte de sport, je ne baisse jamais les bras et suis prêt à
+              réaliser tous les défis. Et pour mon prochain défi, je pars à la
+              recherche d’un stage de 12 à 14 semaines dans le domaine de la
+              création numérique.
+            </p>
           </p>
           <a href="/blog" class="flex"
             ><button
@@ -31,9 +40,10 @@ import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
               >Voir mes projets</button
             ></a
           >
+        
         </div>
         <div class="flex justify-center">
-          <img src="./mascotte.png" alt="mascotte" class="w-64"/>
+          <img src="./mascotte.png" alt="mascotte" class="w-64" />
         </div>
       </section>
     </main>

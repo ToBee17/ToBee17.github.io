@@ -1,6 +1,6 @@
 ---
 title: 'Vidéo pour le Lica'
-description: 'Projet Universitaire | Vidéo'
+description: 'Projet Universitaire | Montage'
 pubDate: 'Nov 11 2024'
 heroImage: '/lica/cover.png'
 ---

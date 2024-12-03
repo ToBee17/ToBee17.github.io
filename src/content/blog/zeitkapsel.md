@@ -75,7 +75,7 @@ Pour finaliser notre projet, nous avons réalisé un manuel d'identité afin de 
     </a>
 </div>
 
-<div class="text-center">
+<div class="text-center fixed bottom-4 left-8">
     <a href="/blog" class="flex">
         <button
             class="w-fit px-6 py-4 text-base font-semibold bg-black rounded-xl text-white hover:bg-primary hover:text-black transform hover:-translate-y-1 active:scale-105 transition duration-300">Retour</button>

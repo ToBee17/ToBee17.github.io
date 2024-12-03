@@ -1,7 +1,7 @@
 ---
 title: "Die Zeitkapsel"
 description: "Projet Universitaire | Conception"
-pubDate: "Jul 08 2022"
+pubDate: "Nov 15 2024"
 heroImage: "/zeitkapsel/cover.png"
 ---
 
@@ -70,7 +70,7 @@ Pour finaliser notre projet, nous avons réalisé un manuel d'identité afin de 
 ![Manuel d'identité](/zeitkapsel/manuel.png)
 
 <div class="text-center mt-8">
-    <a href="https://drive.google.com/file/d/1SH0j9oS05jju8gI0fwA2_jU17NQDTHq_/view?usp=sharing" class="text-base font-semibold text-black hover:text-primary transition duration-300 underline">
+    <a href="https://drive.google.com/file/d/1SH0j9oS05jju8gI0fwA2_jU17NQDTHq_/view?usp=sharing" class="text-base font-semibold text-black hover:text-primary transition duration-300 underline" target="_blank" >
          Voir le projet
     </a>
 </div>

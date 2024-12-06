@@ -14,9 +14,6 @@ Le LICA (Laboratoire d’Innovation et de Création Artistique) nous a confié l
 ![Note d'intention](/lica/intention.png)
 
 <div class="flex justify-center h-[80vh]">
-    <video class="max-w-3xl rounded shadow-lg aspect-[9/16]" controls>
-        <source src="/lica/video.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
+    <iframe class="max-w-3xl rounded shadow-lg aspect-[9/16]" src='https://youtube.com/embed/RUGzBxAC8k8?si=h6gir6PDI4k9SoCJ' title=”YouTube video player” frameborder=”0″ allow=”accelerometer; allowfullscreen></iframe>
 </div>
 <section>

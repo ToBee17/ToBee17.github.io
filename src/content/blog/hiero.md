@@ -24,8 +24,5 @@ Nous avons été chargés de créer un lot de quatre visuels pour les événemen
 <h2 class="flex justify-center my-4">Motion</h2>
 
 <div class="flex justify-center h-[80vh]">
-    <video class="max-w-3xl rounded shadow-lg aspect-[9/16]" controls>
-        <source src="/hiero/video.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
+    <iframe class="max-w-3xl rounded shadow-lg aspect-[9/16]" src='https://youtube.com/embed/oWamSybrIVY?si=g9DzYkZwZ4NsAArf' title=”YouTube video player” frameborder=”0″ allow=”accelerometer; allowfullscreen></iframe>
 </div>

@@ -1,16 +1,155 @@
 ---
 title: "Pochette d'Album"
 description: 'Projet Personnel | Graphisme'
-pubDate: 'Nov 13 2024'
+pubDate: 'Nov 24 2024'
 heroImage: '/pochette/cover.png'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+Conception de visuel graphique à l'aide du logiciel Photoshop
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+J'ai réalisé ce projet dans le but d'approfondir ma maîtrise du logiciel Photoshop, c’est une exploration poussée autour du monde de la musique et du graphisme. Mon projet consiste à créer des miniatures de pochettes d'albums fictives.
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
+<div class="flex md:flex-row flex-col md:gap-8 mb-8">
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
+![pochette](/pochette/ripple.png)
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+<section class="w-full">
+
+## ripple.
+
+<p class="">
+Première réalisation, elle m'a permis de découvrir les effets présents dans Photoshop, elle porte d’aiileur le nom de l'effet utilisé.</p>
+<section>
+
+</div>
+
+
+<div class="flex md:flex-row-reverse flex-col md:gap-8 mb-8">
+
+![pochette](/pochette/waves.png)
+
+<section class="w-full">
+
+## WAVES
+
+<p class="flex">
+J'ai exploré les fonctionnalités des masques. Mon inspiration a émergé de divers artistes présents sur les réseaux sociaux, et ainsi ajouté une touche de surréalisme à cette photo.</p>
+<section>
+
+</div>
+
+
+<div class="flex md:flex-row flex-col md:gap-8 mb-8">
+
+![pochette](/pochette/fog.png)
+
+<section class="w-full">
+
+## fog_
+
+<p class="flex">
+Le cœur de cette pochette réside dans le décryptage des éléments. Mon objectif était de fusionner un élément de la photographie avec une forme vectorielle, créant ainsi une symbiose entre ces deux aspects distincts.</p>
+<section>
+
+</div>
+
+
+
+<div class="flex md:flex-row-reverse flex-col md:gap-8 mb-8">
+
+![pochette](/pochette/friend.png)
+
+<section class="w-full">
+
+## Some Friends
+
+<p class="flex">
+Pour cet album, j'ai imaginé une collaboration artistique impliquant plusieurs artiste. La pochette reflète un moment de vie dans un groupe d’amis.</p>
+<section>
+
+</div>
+
+
+
+<div class="flex md:flex-row flex-col md:gap-8 mb-8">
+
+![pochette](/pochette/sky.png)
+
+<section class="w-full">
+
+## sky
+
+<p class="flex">
+Conçu avec l’aide d’intelligence artificielle, je cherché à obtenir un résultat réaliste, en y ajoutant ma touche de fantaisie.</p>
+<section>
+
+</div>
+
+
+
+<div class="flex md:flex-row-reverse flex-col md:gap-8 mb-8">
+
+![pochette](/pochette/sunshine.png)
+
+<section class="w-full">
+
+## Sunshine.
+
+<p class="flex">
+Le visuel dont je suis le plus fier ! Je voulais quelque chose de joyeux et épuré pour accompagner ma playlist "Sunshine", parfaite pour mes sons du quotidien. Ce design transmet la bonne humeur et capture une ambiance lumineuse.</p>
+<section>
+
+</div>
+
+
+
+<div class="flex md:flex-row flex-col md:gap-8 mb-8">
+
+![pochette](/pochette/summer24.png)
+
+<section class="w-full">
+
+## Summer Album 24
+
+<p class="flex">
+Pour cette pochette d'album, je me suis inspirée de l'ambiance du printemps, joyeuse on y retrouve sa faune et sa flore en effervescence. J'ai voulu lui donner un style "cartoon rétro", que j'aime particulièrement, j'ai également utilisés des typographies fantaisistes assorties.</p>
+<section>
+
+</div>
+
+
+
+<div class="flex md:flex-row-reverse flex-col md:gap-8 mb-8">
+
+![pochette](/pochette/trenbolone.png)
+
+<section class="w-full">
+
+## TRENBOLONE
+
+<p class="flex">
+Cette pochette pars d’une photo d’un posing de musculation. J’ai ajouté un effet négatif et renforcé la saturation pour donner du caractère et un style unique à l’image, dans l’esprit des pochettes jouant avec les ombres et les contrastes.</p>
+<section>
+
+</div>
+
+
+
+<div class="flex flex-col mb-8">
+
+## Luca Playlist
+
+<section class="flex flex-col md:flex-row gap-2 md:gap-6 mt-2">
+
+![pochette](/pochette/gta.png)
+
+![pochette](/pochette/summer.png)
+
+![pochette](/pochette/old.png)
+
+</section>
+
+<p class="flex">
+Cette série de trois pochettes s’inspire des tendances actuelles des réseaux sociaux. J’ai opté pour un style simple, avec de  légères retouches qui laissent place à l’essentiel. Le recadrage  et le texte placé à l’extérieur créent une harmonie visuelle, donnant une identité à ces créations.</p>
+
+</div>

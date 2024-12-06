@@ -1,7 +1,7 @@
 ---
 title: "Die Zeitkapsel"
 description: "Projet Universitaire | Conception"
-pubDate: "Nov 15 2024"
+pubDate: "Nov 25 2024"
 heroImage: "/zeitkapsel/cover.png"
 ---
 
@@ -72,12 +72,5 @@ Pour finaliser notre projet, nous avons réalisé un manuel d'identité afin de 
 <div class="text-center mt-8">
     <a href="https://drive.google.com/file/d/1SH0j9oS05jju8gI0fwA2_jU17NQDTHq_/view?usp=sharing" class="text-base font-semibold text-black hover:text-primary transition duration-300 underline" target="_blank" >
          Voir le projet
-    </a>
-</div>
-
-<div class="text-center fixed bottom-4 left-8">
-    <a href="/blog" class="flex">
-        <button
-            class="w-fit px-6 py-4 text-base font-semibold bg-black rounded-xl text-white hover:bg-primary hover:text-black transform hover:-translate-y-1 active:scale-105 transition duration-300">Retour</button>
     </a>
 </div>

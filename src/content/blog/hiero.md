@@ -23,6 +23,8 @@ Nous avons été chargés de créer un lot de quatre visuels pour les événemen
 
 <h2 class="flex justify-center my-4">Motion</h2>
 
+![Storyboard](/hiero/storyboard.jpg)
+
 <div class="flex justify-center h-[80vh]">
     <iframe class="max-w-3xl rounded shadow-lg aspect-[9/16]" src='https://youtube.com/embed/oWamSybrIVY?si=g9DzYkZwZ4NsAArf' title=”YouTube video player” frameborder=”0″ allow=”accelerometer; allowfullscreen></iframe>
 </div>

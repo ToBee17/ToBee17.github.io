@@ -12,9 +12,9 @@ import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
   </head>
   <body class="text-black h-screen">
     <Header />
-    <main class="w-full">
+    <main class="w-full flex flex-col">
       <section
-        class="flex flex-col md:flex-row gap-12 w-full justify-center items-centerd max-w-[1000px]" 
+        class="flex flex-col md:flex-row gap-12 w-full justify-center items-centerd max-w-[1000px]"
       >
         <div class="flex flex-col md:w-[60%] bg-cover bg-center">
           <h2 class="font-semibold text-base md:text-lg">
@@ -22,16 +22,15 @@ import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
           </h2>
           <h1 class="font-semibold text-4xl md:text-6xl mb-6">Web Designer</h1>
           <p class="text-sm md:text-base mb-3">
-            Ça, c'est moi ! Et je suis en 3ᵉ année du BUT MMI à Limoges. Je suis
-            un passionné d’art, de dessin et de photographie. Ces disciplines
-            nourrissent ma créativité et ma curiosité. Le graphisme et la
-            communication sont mes disciplines phares, et je suis en constante
-            recherche de nouvelles découvertes.
+            Ça, c'est moi ! Je suis en 3ᵉ année du BUT MMI à Limoges. Créatif
+            et curieux, je suis passionné par le dessin et la photographie. Au
+            cours de mes études, j’ai découvert le graphisme et la communication
+            qui sont devenus des disciplines phares !
+
             <p class="text-sm md:text-base mb-6">
               Adepte de sport, je ne baisse jamais les bras et suis prêt à
-              réaliser tous les défis. Et pour mon prochain défi, je pars à la
-              recherche d’un stage de 12 à 14 semaines dans le domaine de la
-              création numérique.
+              réaliser tous les défis. Actuellement à la recherche d’un stage de
+              12 à 14 semaines dans le domaine de la création numérique.
             </p>
           </p>
           <a href="/blog" class="flex"
@@ -40,13 +39,50 @@ import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
               >Voir mes projets</button
             ></a
           >
-        
         </div>
         <div class="flex justify-center">
           <img src="./mascotte.png" alt="mascotte" class="w-64" />
         </div>
       </section>
+
+      <section class="flex flex-col gap-4 w-full justify-center items-centerd max-w-[1000px] mt-20">
+        <h2 class="font-semibold text-base md:text-lg text-center">
+          Ma gallerie
+        </h2>
+      <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 p-4">
+
+        <img class="image" src="/gallerie/zelda.jpg" alt="gallerie_1">        
+        <img class="image" src="/gallerie/gazpacho.png" alt="gallerie_2">
+        <img class="image" src="/gallerie/studio2.jpg" alt="gallerie_3">
+        <img class="image" src="/gallerie/vinyle2.jpg" alt="gallerie_4">
+        <img class="image" src="/gallerie/tas_bille.png" alt="gallerie_5">    
+        <img class="image" src="/gallerie/larochelle1.jpg" alt="gallerie_6">
+        <img class="image" src="/gallerie/saintes2.jpg" alt="gallerie_7">
+        <img class="image" src="/gallerie/tatouage.jpg" alt="gallerie_8">
+        <img class="image" src="/gallerie/larochelle2.jpg" alt="gallerie_9">
+        <img class="image" src="/gallerie/bille_plate_bleu.png" alt="gallerie_10">
+        <img class="image" src="/gallerie/macaron.png" alt="gallerie_11"> 
+        <img class="image" src="/gallerie/banière.png" alt="gallerie_12">
+        
+      </div>
+      </section>
+
+
     </main>
     <Footer />
   </body>
 </html>
+
+<style>
+  .image {
+    aspect-ratio: 4/3;
+    object-fit: cover;
+    
+    transition: transform 0.3s ease-in-out;
+  }
+
+  .image:hover{
+    transform: translateY(-10px);
+    transition: transform 0.3s ease-in-out;
+  }
+</style>

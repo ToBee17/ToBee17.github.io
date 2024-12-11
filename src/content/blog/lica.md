@@ -1,8 +1,9 @@
 ---
-title: 'Vidéo pour le Lica'
-description: 'Projet Universitaire | Montage'
+title: 'Le Lica'
+description: 'Projet Universitaire | Vidéo'
 pubDate: 'Nov 19 2024'
 heroImage: '/lica/cover.png'
+tag: 'Vidéo'
 ---
 
 Conception d’une vidéo au format court pour les réseaux sociaux

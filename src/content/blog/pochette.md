@@ -1,8 +1,9 @@
 ---
-title: "Pochette d'Album"
+title: "Album"
 description: 'Projet Personnel | Graphisme'
 pubDate: 'Nov 24 2024'
 heroImage: '/pochette/cover.png'
+tag: 'Graphisme'
 ---
 
 Conception de visuel graphique à l'aide du logiciel Photoshop

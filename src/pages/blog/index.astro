@@ -4,7 +4,6 @@ import Header from '../../components/Header.astro';
 import Footer from '../../components/Footer.astro';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../../consts';
 import { getCollection } from 'astro:content';
-import FormattedDate from '../../components/FormattedDate.astro';
 
 const posts = (await getCollection('blog')).sort(
 	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
@@ -14,7 +13,7 @@ const posts = (await getCollection('blog')).sort(
 <!doctype html>
 <html lang="en">
 	<head>
-		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION}>
 		<style>
 			main {
 				width: 100%;
@@ -53,7 +52,6 @@ const posts = (await getCollection('blog')).sort(
 				margin: 0;
 				color: rgb(var(--black));
 				line-height: 1;
-				margin-top: 1rem;
 			}
 			.date {
 				margin: 0;
@@ -72,6 +70,15 @@ const posts = (await getCollection('blog')).sort(
 			}
 			ul a:hover div {
 				box-shadow: var(--box-shadow);
+			}
+
+			.tag {
+				margin: 0;
+				color: rgb(var(--black));
+				font-size: 0.875em;
+				border: 1px solid rgb(var(--black));
+				padding: .1rem .5rem 0rem .5rem;
+				border-radius: 100px;
 			}
 			@media (max-width: 720px) {
 				section {
@@ -103,7 +110,8 @@ const posts = (await getCollection('blog')).sort(
 							<li>
 								<a href={`/blog/${post.slug}/`}>
 									<div><img width={720} height={360} src={post.data.heroImage} alt="" /></div>
-									<h4 class="title">{post.data.title}</h4>
+									<section class="flex items-center justify-between mt-4"><h4 class="title">{post.data.title}</h4>
+									<p class="tag">{post.data.tag}</p></section>
 								</a>
 							</li>
 						))

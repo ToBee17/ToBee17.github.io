@@ -3,6 +3,7 @@ title: 'Pub Orangina'
 description: 'Projet Universitaire | Publicité'
 pubDate: 'Nov 17 2024'
 heroImage: '/orangina/cover.png'
+tag: 'Vidéo'
 ---
 
 Réalisation d’une publicité fictive pour la marque Orangina

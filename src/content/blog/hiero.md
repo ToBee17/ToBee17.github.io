@@ -1,8 +1,9 @@
 ---
-title: 'Illustration Hiero'
+title: 'Hiero'
 description: 'Projet Universitaire | Illustration'
 pubDate: 'Nov 22 2024'
 heroImage: '/hiero/cover.png'
+tag: 'Illustration'
 ---
 
 Réalisation d’illustrations et d’un motion design pour Hiero

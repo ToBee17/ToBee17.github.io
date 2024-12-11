@@ -3,6 +3,7 @@ title: "Rolling Cake"
 description: 'Projet Universitaire | Game Conception'
 pubDate: 'Nov 21 2024'
 heroImage: '/rolling/cover.png'
+tag: 'Game'
 ---
 
 Réalisation d'un Small Game en P5:play

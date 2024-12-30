@@ -8,7 +8,7 @@ tag: 'Illustration'
 
 Réalisation d’illustrations et d’un motion design pour Hiero
 
-Nous avons été chargés de créer un lot de quatre visuels pour les événements de concerts organisés par Hiero à Limoges en 2025. Chaque illustration représente une période de quatre mois de l’année, avec une thématique spécifique et un clin d’œil à la ville de Limoges. Pour compléter ce projet, j’ai également conçu un motion design à partir de l’un de ces visuels.
+Chargés de créer un lot de quatre visuels pour des événements de concerts organisés par Hiero à Limoges en 2025. Chaque illustration représente une période de quatre mois de l’année, avec une thématique spécifique et un clin d’œil à la ville de Limoges. Pour compléter ce projet, j’ai également conçu un motion design à partir de l’un de ces visuels.
 
 <section class="flex flex-row gap-4">
 

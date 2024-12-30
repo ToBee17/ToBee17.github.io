@@ -43,7 +43,7 @@ BLUD est une galette vivante en quête d'aventure, jonglant entre les embûches 
 
 #### Pipiaf - L'oiseau
 
-BLUD est une galette vivante en quête d'aventure, jonglant entre les embûches avec une grâce insoupçonnée.
+PIPIAF est un oiseau espiègle, maître de l'art de la surprise, prêt à faire voltiger les plans de Blud en éclats.
 
 </section> 
 </div>
@@ -56,7 +56,7 @@ BLUD est une galette vivante en quête d'aventure, jonglant entre les embûches 
 
 #### Rick - Le Renard
 
-BLUD est une galette vivante en quête d'aventure, jonglant entre les embûches avec une grâce insoupçonnée.
+RICK est un renard rusé, tissant des stratagèmes sournois pour faire dérailler les projets de Blud à chaque tournant.
 
 </section> 
 </div>

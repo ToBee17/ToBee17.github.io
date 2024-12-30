@@ -65,7 +65,7 @@ Le cœur de cette pochette réside dans le décryptage des éléments. Mon objec
 ## Some Friends
 
 <p class="flex">
-Pour cet album, j'ai imaginé une collaboration artistique impliquant plusieurs artiste. La pochette reflète un moment de vie dans un groupe d’amis.</p>
+Pour cet album, j'ai imaginé une collaboration artistique impliquant plusieurs artistes. La pochette reflète un moment de vie dans un groupe d’amis.</p>
 <section>
 
 </div>
@@ -113,7 +113,7 @@ Le visuel dont je suis le plus fier ! Je voulais quelque chose de joyeux et épu
 ## Summer Album 24
 
 <p class="flex">
-Pour cette pochette d'album, je me suis inspirée de l'ambiance du printemps, joyeuse on y retrouve sa faune et sa flore en effervescence. J'ai voulu lui donner un style "cartoon rétro", que j'aime particulièrement, j'ai également utilisés des typographies fantaisistes assorties.</p>
+Pour cette pochette d'album, je me suis inspiré de l'ambiance du printemps, joyeuse on y retrouve sa faune et sa flore en effervescence. J'ai voulu lui donner un style "cartoon rétro", que j'aime particulièrement, j'ai également utilisé des typographies fantaisistes assorties.</p>
 <section>
 
 </div>
@@ -129,7 +129,7 @@ Pour cette pochette d'album, je me suis inspirée de l'ambiance du printemps, jo
 ## TRENBOLONE
 
 <p class="flex">
-Cette pochette pars d’une photo d’un posing de musculation. J’ai ajouté un effet négatif et renforcé la saturation pour donner du caractère et un style unique à l’image, dans l’esprit des pochettes jouant avec les ombres et les contrastes.</p>
+Cette pochette part d’une photo d’un posing de musculation. J’ai ajouté un effet négatif et renforcé la saturation pour donner du caractère et un style unique à l’image, dans l’esprit des pochettes jouant avec les ombres et les contrastes.</p>
 <section>
 
 </div>

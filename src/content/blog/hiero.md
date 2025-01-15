@@ -1,7 +1,7 @@
 ---
 title: 'Hiero'
 description: 'Projet Universitaire | Illustration'
-pubDate: 'Nov 22 2024'
+pubDate: 'Nov 23 2024'
 heroImage: '/hiero/cover.png'
 tag: 'Illustration'
 ---

@@ -135,6 +135,70 @@ Cette pochette part d’une photo d’un posing de musculation. J’ai ajouté u
 </div>
 
 
+<div class="flex md:flex-row flex-col md:gap-8 mb-8">
+
+![pochette](/pochette/2k25.png)
+
+<section class="w-full">
+
+## 2k25
+
+<p class="flex">
+Une pochette épurée avec une touche street. La casquette et le code-barre ancrent l’ambiance urbaine, tandis que les bords arrondis adoucissent l’illustration pour un rendu plus minimaliste.</p>
+<section>
+
+</div>
+
+
+
+<div class="flex md:flex-row-reverse flex-col md:gap-8 mb-8">
+
+![pochette](/pochette/flow.png)
+
+<section class="w-full">
+
+## FLOW
+
+<p class="flex">
+Avec Flow, j’explore un état de concentration absolue où tout devient fluide et instinctif. Cette pochette est une expérimentation sur Photoshop pour capturer ce moment où plus rien ne peut nous distraire, où l'on est totalement absorbé par l'instant.</p>
+<section>
+
+</div>
+
+
+
+<div class="flex md:flex-row flex-col md:gap-8 mb-8">
+
+![pochette](/pochette/inmycar.png)
+
+<section class="w-full">
+
+## In My Car
+
+<p class="flex">
+Expérimentation sur Photoshop, cette pochette remplace ma playlist de conduite avec une approche plus décalée qu’un simple paysage. L'idée était de capturer l’énergie du voyage tout en apportant une touche originale et dynamique.</p>
+<section>
+
+</div>
+
+
+
+<div class="flex md:flex-row-reverse flex-col md:gap-8 mb-8">
+
+![pochette](/pochette/shazam.png)
+
+<section class="w-full">
+
+## Shazam
+
+<p class="flex">
+Pour ma playlist Shazam, il me fallait une pochette adaptée. J’ai opté pour un redesign du logo Shazam, en le revisitant à ma manière pour coller à l’esthétique de la playlist.</p>
+<section>
+
+</div>
+
+
+
 
 <div class="flex flex-col mb-8">
 
